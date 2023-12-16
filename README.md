@@ -19,7 +19,10 @@
 ## Contatos
 
 <div>
+- Facebook - <a href="https://www.facebook.com/caio.resque">@caio.resque</a>
+  
 - Instagram - <a href="https://instagram.com/caio.resque">@caio.resque</a>
+
 
 
 
