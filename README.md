@@ -14,3 +14,8 @@
 - Layout Preview
 
 <img src="/assets/pet.png">
+
+
+## Autor
+
+- Facebook - [@caio.resque] (https://www.facebook.com/caio.resque)
