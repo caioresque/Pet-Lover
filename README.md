@@ -22,9 +22,7 @@
 
 - Facebook - <a href="https://www.facebook.com/caio.resque">@caio.resque</a>
 - Instagram - <a href="https://instagram.com/caio.resque">@caio.resque</a>
-
-
-
+- Linkedin - <a href="https://www.linkedin.com/in/caioresque">@caioresque</a>
 
 
 </div>
