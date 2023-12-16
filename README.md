@@ -19,7 +19,7 @@
 ## Contatos
 
 <div>
-<a href="https://instagram.com/caio.resque">@caio.resque@> target="_blank">
+<a href="https://instagram.com/caio.resque">@caio.resque@> 
 
 
 
