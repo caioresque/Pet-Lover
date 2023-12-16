@@ -18,4 +18,4 @@
 
 ## Autor
 
-- Facebook - [@caio.resque] (https://www.facebook.com/caio.resque)
+- Facebook - [@caio.resque]
