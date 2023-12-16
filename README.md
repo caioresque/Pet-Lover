@@ -13,4 +13,4 @@
 
 - Layout Preview
 
-<img src"/assets/print projeto pet.png">
+<img src"/assets/projeto-pet.png">
